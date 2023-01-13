@@ -1,0 +1,12 @@
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\bin\Debug\net6.0\LibForm.deps.json
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\bin\Debug\net6.0\LibForm.dll
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\bin\Debug\net6.0\LibForm.pdb
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\LibForm.csproj.AssemblyReference.cache
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\LibForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\LibForm.AssemblyInfoInputs.cache
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\LibForm.AssemblyInfo.cs
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\LibForm.csproj.CoreCompileInputs.cache
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\LibForm.dll
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\refint\LibForm.dll
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\LibForm.pdb
+D:\aAProgramming\myprogramming\TEST\Draft\LibForm\LibForm\LibForm\obj\Debug\net6.0\ref\LibForm.dll
